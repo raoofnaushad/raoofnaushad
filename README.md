@@ -8,6 +8,6 @@
 📫 You can reach out to me 
 ![LinkedIn](/home/accubits/Desktop/4.png) ![Twitter](/home/accubits/Desktop/2.png) ![Medium](/home/accubits/Desktop/3.png) 
 
-  - Currently: Aritificial Engineer @ [Accubits](https://accubits.com/)
-  - Previously: Project Assistant @ [CSIR](https://www.niist.res.in/english/)
-  - Before that: I was pursuing my bachelors in technology in Electronics and Communication from [SCT](https://www.sctce.ac.in/)
+  * Currently: Aritificial Engineer @ [Accubits](https://accubits.com/)
+  * Previously: Project Assistant @ [CSIR](https://www.niist.res.in/english/)
+  * Before that: I was pursuing my bachelors in technology in Electronics and Communication from [SCT](https://www.sctce.ac.in/)
