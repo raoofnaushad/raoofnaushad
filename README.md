@@ -1,6 +1,6 @@
 ### Hi, I'm Raoof Naushad! 👋
 I learn and explore how machine learns and how computer intelligence can make our life beautiful. 🔭 \
-[Accubits](https://accubits.com/) feeds me and helps me with my dreams. \
+[Accubits Technologies](https://accubits.com/) feeds me and helps me with my dreams. \
 💬 I believe education is the key to unlock everything.\
 👯 Share knowledge and Share love 😄
 
