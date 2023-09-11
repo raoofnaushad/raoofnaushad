@@ -9,7 +9,8 @@ I learn and explore how machine learns and how computer intelligence can help in
   * Currently: Graduate Student @ [Saint Marys University](https://www.smu.ca/)
   * Before that: Graduate Research Assistant @ [University of New Hampshire](https://www.unh.edu/)
   * Before that: Junior Research Fellow @ [IIT Bombay](https://www.iitb.ac.in/)
+  * Before that: Software Engineer (L3) @ [UST](https://www.ust.com/)
   * Here I evolved: Artificial Intelligence Engineer @ [Accubits](https://accubits.com/)
   * Before that: Project Assistant @ [CSIR](https://www.niist.res.in/english/)
-  * Here it started: I did my bachelors in technology in Electronics and Communication from [SCT](https://www.sctce.ac.in/)
+  * Here it started: I did my bachelor in technology in Electronics and Communication from [SCT](https://www.sctce.ac.in/)
 
