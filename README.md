@@ -7,7 +7,7 @@ I'm deeply engrossed in the exploration of machine learning and the application 
 - I'm also honing my skills as a **Machine Learning Engineering Intern** at [Farpoint](https://www.farpointhq.com/), working on cutting-edge projects that are shaping the future of technology.
 
 ### 💼 Professional Journey:
-- **Senior Data Analyst** at [Factspan Analytics](https://www.factspan.com/): Delved into data to extract meaningful insights that drive strategic decisions.
+- **Senior Analyst - Data Science** at [Factspan Analytics](https://www.factspan.com/): Delved into data to extract meaningful insights that drive strategic decisions.
 - **Junior Research Fellow** at [IIT Bombay](https://www.iitb.ac.in/): Contributed to research that pushes the boundaries of knowledge in AI.
 - **Software Engineer (L3)** at [UST](https://www.ust.com/): Developed robust software solutions that cater to complex business needs.
 - **Artificial Intelligence Engineer** at [Accubits](https://accubits.com/): Pioneered in the development of AI-driven products that revolutionize industries.
