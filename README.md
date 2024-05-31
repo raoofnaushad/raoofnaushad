@@ -20,5 +20,6 @@ Let's connect and embark on a journey of learning and innovation together.
 - [LinkedIn](https://www.linkedin.com/in/raoof-naushad-378432106/)
 - [Twitter](https://twitter.com/raoof_naushad)
 - [Medium](https://medium.com/@raoofnaushad7)
+- [ResearchGate](https://www.researchgate.net/profile/Raoof-Naushad-2)
 
 *"Education is the most powerful weapon which you can use to change the world." - Nelson Mandela*
