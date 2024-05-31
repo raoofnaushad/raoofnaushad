@@ -4,9 +4,10 @@ I'm deeply engrossed in the exploration of machine learning and the application 
 
 ### 🌱 What I'm currently working on:
 - I'm a **Graduate Student** at [Saint Mary's University](https://www.smu.ca/), where I'm expanding my horizons in the field of Artificial Intelligence and Machine Learning.
-- I'm also honing my skills as a **Machine Learning Engineering Intern** at [Farpoint](https://www.farpointhq.com/), working on cutting-edge projects that are shaping the future of technology.
+- I'm also working as an **Amplify Intern** in Data & AI at [RBC](https://jobs.rbc.com/ca/en/amplify), focusing on Data Engineering and Generative AI fields, contributing to innovative projects that drive technological advancements.
 
 ### 💼 Professional Journey:
+- **Machine Learning Engineering Intern** at [Farpoint](https://www.farpointhq.com/): Worked on cutting-edge projects that are shaping the future of technology.
 - **Senior Analyst - Data Science** at [Factspan Analytics](https://www.factspan.com/): Delved into data to extract meaningful insights that drive strategic decisions.
 - **Junior Research Fellow** at [IIT Bombay](https://www.iitb.ac.in/): Contributed to research that pushes the boundaries of knowledge in AI.
 - **Software Engineer (L3)** at [UST](https://www.ust.com/): Developed robust software solutions that cater to complex business needs.
