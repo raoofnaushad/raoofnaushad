@@ -2,6 +2,8 @@
 
 I'm deeply engrossed in the exploration of machine learning and the application of computer intelligence in both scientific and business domains. I believe in the transformative power of education and am committed to sharing knowledge and spreading love.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raoofnaushad&label=Profile%20views&color=0e75b6&style=flat" alt="raoofnaushad" /> </p>
+
 ### 🌱 What I'm currently working on:
 - I'm a **Graduate Student** at [Saint Mary's University](https://www.smu.ca/), where I'm expanding my horizons in the field of Artificial Intelligence and Machine Learning.
 - I'm also working as an **Amplify Intern** in Data & AI at [RBC](https://jobs.rbc.com/ca/en/amplify), focusing on Data Engineering and Generative AI fields, contributing to innovative projects that drive technological advancements.
