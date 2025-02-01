@@ -6,7 +6,7 @@ I'm deeply engrossed in the exploration of machine learning and the application 
 
 ### 🌱 What I'm currently working on:
 - I'm a **Graduate Student** at [Saint Mary's University](https://www.smu.ca/), where I'm expanding my horizons in the field of Artificial Intelligence and Machine Learning.
-- I'm also working as an **Amplify Intern** in Data & AI at [RBC](https://jobs.rbc.com/ca/en/amplify), focusing on Data Engineering and Generative AI fields, contributing to innovative projects that drive technological advancements.
+- I'm also working as a **Data and AI Architect** in the Enterprise Architecture team at [RBC](https://www.rbc.com/), where I contribute to innovative projects that drive technological advancements in data and AI.
 
 ### 💼 Professional Journey:
 - **Machine Learning Engineering Intern** at [Farpoint](https://www.farpointhq.com/): Worked on cutting-edge projects that are shaping the future of technology.
