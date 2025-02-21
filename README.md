@@ -1,27 +1,45 @@
 # Hi, I'm Raoof Naushad! 👋
 
-I'm deeply engrossed in the exploration of machine learning and the application of computer intelligence in both scientific and business domains. I believe in the transformative power of education and am committed to sharing knowledge and spreading love.
+I'm a **Data & AI Architect** at RBC, working within Enterprise Architecture to drive innovation in artificial intelligence, data, and technology strategy. I am also building my platform, **FireHows**, to become a thought leader in AI tech reviews—analyzing, exploring, and understanding the latest AI tools, frameworks, and implementations.
+
+I believe in the transformative power of education and technology, and I am passionate about sharing knowledge, building communities, and helping individuals and businesses harness AI for growth.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raoofnaushad&label=Profile%20views&color=0e75b6&style=flat" alt="raoofnaushad" /> </p>
 
+---
+
 ### 🌱 What I'm currently working on:
-- I'm a **Graduate Student** at [Saint Mary's University](https://www.smu.ca/), where I'm expanding my horizons in the field of Artificial Intelligence and Machine Learning.
-- I'm also working as a **Data and AI Architect** in the Enterprise Architecture team at [RBC](https://www.rbc.com/), where I contribute to innovative projects that drive technological advancements in data and AI.
+- **Enterprise AI & Data Strategy** – As a **Data & AI Architect** at [RBC](https://www.rbc.com/), I help shape AI-driven solutions and technology advancements.
+- **FireHows** – My platform dedicated to **tech reviewing**, exploring AI innovations, and educating businesses on adopting AI for impact.
+- **Content Creation & Thought Leadership** – Sharing insights on AI tools, frameworks, and trends through [YouTube](#), [Instagram](#), and [LinkedIn](#).
+
+---
 
 ### 💼 Professional Journey:
-- **Machine Learning Engineering Intern** at [Farpoint](https://www.farpointhq.com/): Worked on cutting-edge projects that are shaping the future of technology.
-- **Senior Analyst - Data Science** at [Factspan Analytics](https://www.factspan.com/): Delved into data to extract meaningful insights that drive strategic decisions.
-- **Junior Research Fellow** at [IIT Bombay](https://www.iitb.ac.in/): Contributed to research that pushes the boundaries of knowledge in AI.
-- **Software Engineer (L3)** at [UST](https://www.ust.com/): Developed robust software solutions that cater to complex business needs.
-- **Artificial Intelligence Engineer** at [Accubits](https://accubits.com/): Pioneered in the development of AI-driven products that revolutionize industries.
-- **Project Assistant** at [CSIR](https://www.niist.res.in/english/): Played a pivotal role in projects that blend technology and science for innovative solutions.
-- **Bachelor in Technology** in Electronics and Communication from [SCT](https://www.sctce.ac.in/): Where my journey in technology began, laying the foundation for my career.
+- **Data & AI Architect** – [RBC](https://www.rbc.com/)
+- **Machine Learning Engineering Intern** – [Farpoint](https://www.farpointhq.com/)
+- **Senior Analyst - Data Science** – [Factspan Analytics](https://www.factspan.com/)
+- **Junior Research Fellow** – [IIT Bombay](https://www.iitb.ac.in/)
+- **Software Engineer (L3)** – [UST](https://www.ust.com/)
+- **Artificial Intelligence Engineer** – [Accubits](https://accubits.com/)
+- **Project Assistant** – [CSIR](https://www.niist.res.in/english/)
 
-### 📫 How to reach me:
-Let's connect and embark on a journey of learning and innovation together.
-- [LinkedIn](https://www.linkedin.com/in/raoof-naushad-378432106/)
-- [Twitter](https://twitter.com/raoof_naushad)
-- [Medium](https://medium.com/@raoofnaushad7)
-- [ResearchGate](https://www.researchgate.net/profile/Raoof-Naushad-2)
+---
 
-*"Education is the most powerful weapon which you can use to change the world." - Nelson Mandela*
+### 🎓 Education:
+- **Bachelor of Technology (Electronics & Communication)** – [SCT](https://www.sctce.ac.in/)
+- **Graduate Studies in AI & ML** – [Saint Mary's University](https://www.smu.ca/)
+
+---
+
+### 📢 Let's Connect:
+I’m always open to discussions on AI, data, and emerging technologies. Let’s collaborate, learn, and innovate together! 🚀
+
+- **[LinkedIn](https://www.linkedin.com/in/raoof-naushad-378432106/)**
+- **[Twitter](https://twitter.com/raoof_naushad)**
+- **[Medium](https://medium.com/@raoofnaushad7)**
+- **[ResearchGate](https://www.researchgate.net/profile/Raoof-Naushad-2)**
+
+---
+
+🔍 _Exploring AI. Educating Minds. Enabling Innovation._ 🚀🔥
