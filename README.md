@@ -1,21 +1,21 @@
 # Hi, I'm Raoof Naushad! 👋
 
-I'm a **Data & AI Architect** at RBC, working within Enterprise Architecture to drive innovation in artificial intelligence, data, and technology strategy. I am also building my platform, **FireHows**, to become a thought leader in AI tech reviews—analyzing, exploring, and understanding the latest AI tools, frameworks, and implementations.
+I'm the **CTO & Co-founder** of [Lokam.ai](https://lokam.ai) – an AI startup building voice-first automation for small and medium businesses across industries like automotive, healthcare, and retail. Our flagship product uses **Conversational & Voice AI** to drive real-time customer feedback, enable actionable insights, and boost operational efficiency.
 
-I believe in the transformative power of education and technology, and I am passionate about sharing knowledge, building communities, and helping individuals and businesses harness AI for growth.
+I’m also a **former Data & AI Architect** at RBC, where I helped shape enterprise-scale AI strategy. 
+
+I believe in the transformative power of **education + AI + execution**, and I’m passionate about using technology to create tangible impact for businesses and communities.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raoofnaushad&label=Profile%20views&color=0e75b6&style=flat" alt="raoofnaushad" /> </p>
 
 ---
 
-### 🌱 What I'm currently working on:
-- **Enterprise AI & Data Strategy** – As a **Data & AI Architect** at [RBC](https://www.rbc.com/), I help shape AI-driven solutions and technology advancements.
-- **FireHows** – My platform dedicated to **tech reviewing**, exploring AI innovations, and educating businesses on adopting AI for impact.
-- **Content Creation & Thought Leadership** – Sharing insights on AI tools, frameworks, and trends through [YouTube](#), [Instagram](#), and [LinkedIn](#).
+
 
 ---
 
 ### 💼 Professional Journey:
+- **CTO & Co-founder** – [Lokam.ai](https://lokam.ai)
 - **Data & AI Architect** – [RBC](https://www.rbc.com/)
 - **Machine Learning Engineering Intern** – [Farpoint](https://www.farpointhq.com/)
 - **Senior Analyst - Data Science** – [Factspan Analytics](https://www.factspan.com/)
@@ -27,13 +27,13 @@ I believe in the transformative power of education and technology, and I am pass
 ---
 
 ### 🎓 Education:
-- **Bachelor of Technology (Electronics & Communication)** – [SCT](https://www.sctce.ac.in/)
 - **Graduate Studies in AI & ML** – [Saint Mary's University](https://www.smu.ca/)
+- **Bachelor of Technology (Electronics & Communication)** – [SCT](https://www.sctce.ac.in/)
 
 ---
 
 ### 📢 Let's Connect:
-I’m always open to discussions on AI, data, and emerging technologies. Let’s collaborate, learn, and innovate together! 🚀
+I'm always open to discussions on AI, startups, and creative automation. Let’s connect and explore how technology can serve people better. 🚀
 
 - **[LinkedIn](https://www.linkedin.com/in/raoof-naushad-378432106/)**
 - **[Twitter](https://twitter.com/raoof_naushad)**
@@ -42,4 +42,4 @@ I’m always open to discussions on AI, data, and emerging technologies. Let’s
 
 ---
 
-🔍 _Exploring AI. Educating Minds. Enabling Innovation._ 🚀🔥
+🔍 _Building AI that Listens. Sharing AI that Matters. Scaling AI for All._ 🧠🎙️🚀
