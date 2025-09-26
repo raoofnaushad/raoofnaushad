@@ -13,7 +13,7 @@ I believe in the transformative power of **education + AI + execution**, and I�
 ### 💼 Professional Journey:
 - **AI Architect** – Asbi Tech
 - **Data & AI Architect** – [RBC](https://www.rbc.com/)
-- **RBC Amplify Fellow (Internship)** – [RBC](https://www.rbc.com/)
+- **RBC Amplify Fellow** – [RBC](https://www.rbc.com/)
 - **Research Fellow (AI & Remote Sensing)** – [University of New Hampshire](https://www.unh.edu/) & [NASA](https://www.nasa.gov/)
 - **Junior Research Fellow** – [IIT Bombay](https://www.iitb.ac.in/)
 - **Machine Learning Engineering Intern** – [Farpoint](https://www.farpointhq.com/)
