@@ -14,7 +14,6 @@ I believe in the transformative power of **education + AI + execution**, and I�
 
 ### 💼 Professional Journey:
 - **AI Architect** – Asbi Tech  
-- **CTO** – [Lokam](https://lokam.io/)  
 - **Data & AI Architect** – [RBC](https://www.rbc.com/)  
 - **RBC Amplify Fellow** – [RBC](https://www.rbc.com/)  
 - **Research Fellow (AI & Remote Sensing)** – [University of New Hampshire](https://www.unh.edu/) & [NASA](https://www.nasa.gov/)  
